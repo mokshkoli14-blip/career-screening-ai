@@ -1,0 +1,52 @@
+{
+    "Data Scientist": {
+        "skills": [
+            "python",
+            "machine learning",
+            "sql",
+            "statistics"
+        ],
+        "salary": "\u20b98-20 LPA",
+        "roadmap": "Learn Python \u2192 ML \u2192 Deep Learning \u2192 Projects"
+    },
+    "Machine Learning Engineer": {
+        "skills": [
+            "python",
+            "tensorflow",
+            "pytorch",
+            "ml"
+        ],
+        "salary": "\u20b910-25 LPA",
+        "roadmap": "Python \u2192 ML \u2192 Deployment \u2192 MLOps"
+    },
+    "Web Developer": {
+        "skills": [
+            "html",
+            "css",
+            "javascript",
+            "react"
+        ],
+        "salary": "\u20b94-12 LPA",
+        "roadmap": "HTML \u2192 CSS \u2192 JS \u2192 React \u2192 Backend"
+    },
+    "Cyber Security Analyst": {
+        "skills": [
+            "networking",
+            "linux",
+            "security",
+            "python"
+        ],
+        "salary": "\u20b96-18 LPA",
+        "roadmap": "Networking \u2192 Linux \u2192 Ethical Hacking"
+    },
+    "Data Analyst": {
+        "skills": [
+            "excel",
+            "sql",
+            "power bi",
+            "python"
+        ],
+        "salary": "\u20b94-10 LPA",
+        "roadmap": "Excel \u2192 SQL \u2192 Power BI \u2192 Python"
+    }
+}
